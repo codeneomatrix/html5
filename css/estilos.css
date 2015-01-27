@@ -1,0 +1,50 @@
+body
+{
+	background-color: black;
+	color:white;
+}
+
+img
+{
+	max-width: 100%
+}
+a
+{
+	color:#FF530D;
+}
+.footer
+{
+	font-family: 'Megrim', cursive;
+	font-size: 2em;
+}
+
+.quitar_float
+{
+	float:none;
+}
+
+.margen_arriba
+{
+	margin-top:40px
+}
+
+.margen_derecha
+{
+	margin-right: 2em; 
+}
+
+.barra
+{
+	float: none;
+	display: inline-block;
+	padding: 5px 10px;
+}
+.sin_viñeta
+{
+	margin: 0px;
+	padding: 0px;
+}
+.sin_viñeta li
+{
+	list-style-type: none;
+}
