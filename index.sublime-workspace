@@ -1,0 +1,259 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"limit"
+			],
+			[
+				"res",
+				"resb"
+			],
+			[
+				"m",
+				"msg6"
+			],
+			[
+				"f",
+				"File"
+			],
+			[
+				"llama",
+				"llamada"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 242.0,
+		"selected_items":
+		[
+			[
+				"git: pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git: push ",
+				"Git: Push"
+			],
+			[
+				"git:c",
+				"Git: Commit"
+			],
+			[
+				"git:me",
+				"Git: Merge"
+			],
+			[
+				"git:add",
+				"Git: Add..."
+			],
+			[
+				"git:s",
+				"Git: Status"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"git:",
+				"Git: Commit history"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/D/DEV/ensamblador/leenumero.asm",
+		"/D/DEV/ensamblador/operaciones.asm",
+		"/D/DEV/ensamblador/hola.asm",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/User/ensamblador.sublime-build",
+		"/H/prime.asm",
+		"/D/DEV/ensamblador/suma.asm",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/User/python25.sublime-build",
+		"/C/Users/acer/AppData/Roaming/Sublime Text 3/Packages/User/firefox.sublime-build",
+		"/D/NASM/TEST.ASM",
+		"/D/NASM/tdll.asm",
+		"/D/NASM/tcoff.asm",
+		"/D/NASM/t2.asm",
+		"/D/NASM/rtn.asm",
+		"/D/NASM/control.asm",
+		"/D/DEV/ensamblador/control.asm",
+		"/D/DEV/ensamblador/entradasalida.asm",
+		"/C/Users/acer/AppData/Local/Temp/Rar$DI01.506/array1.asm",
+		"/C/Users/acer/AppData/Local/Temp/Rar$DI00.328/asm_io.asm",
+		"/C/Users/acer/Desktop/hola.asm",
+		"/D/DEV/ensamblador/hola",
+		"/C/Users/acer/Desktop/hola.obj",
+		"/C/Users/acer/AppData/Local/Temp/Rar$DI07.129/skel.asm",
+		"/C/Users/acer/AppData/Local/Temp/Rar$DI08.367/sub1.asm",
+		"/C/Users/acer/AppData/Local/Temp/Rar$DI06.492/read.asm",
+		"/C/Users/acer/AppData/Local/Temp/Rar$DI00.845/asm_io.asm",
+		"/C/Users/acer/AppData/Local/Temp/Rar$DI04.977/big_math.asm",
+		"/C/Users/acer/AppData/Local/Temp/Rar$DI08.357/asm_io.asm",
+		"/C/Users/acer/AppData/Local/Temp/Rar$DI00.828/array1.asm",
+		"/D/DEV/python/traductor/trasl.py",
+		"/D/DEV/perl/cadenas.pl",
+		"/D/DEV/perl/os.pl",
+		"/D/software/Popcorn-Time-0.3.5.3-Setup.exe.hex",
+		"/D/software/Popcorn-Time-0.3.5.3-Setup.exe",
+		"/D/Videos/PELICULAS/The.Avengers.2012.HD.CAMRip.AC3.H264-CRYS.srt",
+		"/D/DEV/perl/erastotenes.pl",
+		"/D/DEV/perl/funciones.pl",
+		"/D/DEV/perl/expregulares.pl",
+		"/D/DEV/perl/control perl.pl",
+		"/D/DEV/perl/archivos.pl",
+		"/D/DEV/perl/io.pl",
+		"/D/DEV/perl/genpas.pl",
+		"/D/DEV/perl/archivosalida.txt",
+		"/D/DEV/perl/hola.pl"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SYS_WRITE",
+			"SYS_READ",
+			"SYS_EXIT"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
