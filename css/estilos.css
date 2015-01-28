@@ -9,9 +9,20 @@ img
 	max-width: 100%
 }
 
+iframe
+{
+	max-width: 100%	
+}
 a
 {
-	color:#FF530D;
+	color:#FCFCF9;
+}
+
+.retardo
+{
+	-webkit-animation-delay: 1s;
+	-moz-animation-delay: 1s;
+	animation-delay: 1s;
 }
 
 .titulos
@@ -31,6 +42,7 @@ a
 	float: none;
 	display: inline-block;
 	margin-right: -4px;
+	vertical-align: top;
 }
 
 .barra
@@ -38,6 +50,19 @@ a
 	background-color:#5F5448;
 	color: white;
 	padding: 5px 10px
+}
+
+.barra_index
+{
+	background-color:#0092B2;
+	color: white;
+	padding: 5px 10px
+}
+
+.color_index
+{
+	background-color: black;
+	color: white;
 }
 
 .sin_lista li
