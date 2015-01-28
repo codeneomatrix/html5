@@ -1,6 +1,6 @@
 body
 {
-	background-color: black;
+	background-color:#0092B2;
 	color:white;
 }
 
@@ -8,14 +8,47 @@ img
 {
 	max-width: 100%
 }
+
 a
 {
 	color:#FF530D;
 }
-.footer
+
+.titulos
 {
 	font-family: 'Megrim', cursive;
 	font-size: 2em;
+}
+
+.texto
+{
+	color:black;
+	font-weight: bold;
+}
+
+.linea
+{
+	float: none;
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.barra
+{
+	background-color:#5F5448;
+	color: white;
+	padding: 5px 10px
+}
+
+.sin_lista li
+{
+	list-style-type: none;
+}
+
+.sin_lista
+{
+	margin: 0px;
+	padding: 0px;
 }
 
 .quitar_float
@@ -31,20 +64,4 @@ a
 .margen_derecha
 {
 	margin-right: 2em; 
-}
-
-.barra
-{
-	float: none;
-	display: inline-block;
-	padding: 5px 10px;
-}
-.sin_viñeta
-{
-	margin: 0px;
-	padding: 0px;
-}
-.sin_viñeta li
-{
-	list-style-type: none;
 }
